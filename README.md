@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Fathy</h1>
 <h3 align="center">A passionate Mobile developer and Back-end</h3>
-- 🔭 I’m currently studying **on ITI 9 months scholarship**
+- 🔭 I’m currently studying  on<strong> ITI 9 months scholarship</strong>
 
 - 📫 How to reach me **mostafafathy677@gmail.com**
 
