@@ -1,10 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mobile developer and Back-end</h3>
+<h3 align="center">Itian at intake 42</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-fathi&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-fathi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-fathi" alt="mostafa-fathi" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a>mostafafathy677@gmail.com</a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-fathy-79a57516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-fathy-79a57516b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mostafafathy677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mostafafathy677" height="30" width="40" /></a>
