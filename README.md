@@ -1,10 +1,13 @@
+<h1 align="center">Hi 👋, I'm Mostafa Fathy</h1>
 <h3 align="center">A passionate Mobile developer and Back-end</h3>
-<h3 align="center">Itian at intake 42</h3>
+
+- 📫 How to reach me **mostafafathy677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mostafa-fathy-79a57516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-fathy-79a57516b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mostafafathy677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mostafafathy677" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mostafa-fathy-79a57516b" target="blank"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
+</a>
+<a href="https://www.hackerrank.com/mostafafathy677" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="mostafafathy677" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
